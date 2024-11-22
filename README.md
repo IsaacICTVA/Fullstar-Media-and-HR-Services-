@@ -1,4 +1,4 @@
-# Fullstar-Media-and-HR-Services-
+
 # Fullstar Media & HR Services Projects
 
 ## Project Overview
