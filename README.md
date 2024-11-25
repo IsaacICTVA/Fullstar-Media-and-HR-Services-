@@ -85,22 +85,35 @@ plt.ylabel("Interactions")
 plt.show()
 ```
 
-![Event Publicity Analytics](https://github.com/user-attachments/assets/420157fd-e3ca-4670-978d-2126c18e0362)
+- ![Event Publicity Analytics](https://github.com/user-attachments/assets/420157fd-e3ca-4670-978d-2126c18e0362)
 
-![Additional Image](https://github.com/user-attachments/assets/0d73acd0-5254-4768-b9d4-d8a659603630)
+- ![image](https://github.com/user-attachments/assets/768e8784-ed9f-47b8-a749-debcda4a5171)
 
-![Event image of Staff](https://github.com/user-attachments/assets/d3973857-3a9c-413c-8ec8-62e7b9fd9e0e)
+- ![image](https://github.com/user-attachments/assets/51478ab4-614e-4651-bd7a-814245e08f7d)
+
+- ![image](https://github.com/user-attachments/assets/15f7409a-1213-47d9-880a-e44cf0f695c0)
+
+- ![Additional Image](https://github.com/user-attachments/assets/0d73acd0-5254-4768-b9d4-d8a659603630)
+
+- ![Event image of Staff](![image](https://github.com/user-attachments/assets/9e8fe9a1-bb28-433a-bd17-ff4dee3bd79e)
+
+- ![Tailored Sponsored Ads for DM Marketing](https://github.com/user-attachments/assets/f351bbf1-569d-4011-b7dc-0bb7ecfba1a6)
 
 
 
 ## Visuals and Links
+
+- [Video content link for services offered](https://www.instagram.com/reel/CtbIMqGOjSl/?igsh=MTBvaXljdDl1Ync0Mw==)
+
+-[Event Visuals Highlights](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkwNjEwNDM1MzQxMzEy?igsh=MTZyc3Y1cnM3d2djOA==) 
 
 ### Attachments
 #### Campaign Reports and Analytics
 - [Sample Campaign Report: Artiste Launch]([documents/artiste_campaign_report.pdf](https://docs.google.com/document/d/101hym4F7FcNAIZd10vywC5OzC3XtzdZV96vXTzf7PL4/edit))
 
 #### Social Media Content Samples
-- ![Social Media Post Sample](images/social_media_sample.png)
+- ![Social Media Post Sample](![image](https://github.com/user-attachments/assets/6444192b-8f24-4287-9973-45fd19f5da7b)
+)
 
 #### Event Highlights and Publicity
 - [Bikers Palmie and Jollof Event](https://www.instagram.com/reel/CvpwJhDLmuX/?igsh=Yjd0bTBhNmZnanVq)
