@@ -87,7 +87,6 @@ plt.show()
 
 - ![Event Publicity Analytics](https://github.com/user-attachments/assets/420157fd-e3ca-4670-978d-2126c18e0362)
 
-- ![image](https://github.com/user-attachments/assets/768e8784-ed9f-47b8-a749-debcda4a5171)
 
 - ![image](https://github.com/user-attachments/assets/51478ab4-614e-4651-bd7a-814245e08f7d)
 
@@ -106,6 +105,7 @@ plt.show()
 - [Video content link for services offered](https://www.instagram.com/reel/CtbIMqGOjSl/?igsh=MTBvaXljdDl1Ync0Mw==)
 
 -[Event Visuals Highlights](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDkwNjEwNDM1MzQxMzEy?igsh=MTZyc3Y1cnM3d2djOA==) 
+
 
 ### Attachments
 #### Campaign Reports and Analytics
